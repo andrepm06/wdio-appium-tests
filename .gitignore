@@ -90,6 +90,8 @@ typings/
 # execution output
 errorShots
 logs
+mochawesome-report/
+report.json
 
 package-lock.json
 
