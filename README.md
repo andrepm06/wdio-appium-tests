@@ -11,13 +11,13 @@ This task was completed using the following tools:
 
 Simple testing triangle types on a mobile application running in a Android Virtual Device.
 
-###Strategy adopted 
+### Strategy adopted 
 
 * **E2E** - I've choosed webdriver.io instead [wd.js](https://github.com/admc/wd) because it has a wider documentation and seems way more flexible. Since the given scenarios are not too tricky and not too long, i've prefered to do it at the UI layer.
 
 * **Scenarios Outline** - I've used this cucumber feature to allow this suite to be elastic. So, it easier to create more tests without writing too much (e.g. boundary testing)
 
-####Other information
+#### Other information
 
 - The tests for some reason are slower than i desired. I was not able to have enough time to investigate in depth (maybe because of selector strategy?)
 
